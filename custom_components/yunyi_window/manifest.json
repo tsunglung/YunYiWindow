@@ -1,0 +1,16 @@
+{
+    "domain": "yunyi_window",
+    "name": "YunYi Window",
+    "config_flow": true,
+    "version": "0.0.1",
+    "documentation": "https://github.com/tsunglung/YunYiWindow",
+    "issue_tracker": "https://github.com/tsunglung/YunYiWindow/issues",
+    "dependencies": [
+    ],
+    "codeowners": [
+        "@dominic2708", "@tsunglung"
+    ],
+    "requirements": [
+        "python-miio>=0.5.0.1"
+    ]
+}

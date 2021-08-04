@@ -1,7 +1,7 @@
 # 雲儀開窗器
 
 
-雲儀開窗器接入HomeAssistant組件
+雲儀開窗器接入 HomeAssistant組件
 
 
 ## 安装
@@ -9,7 +9,7 @@
 
 
 
-###解壓後將yunyi_windows資料夾放入custom_components
+###解壓後將 yunyi_window 資料夾放入custom_components
 
 ### configuration.yaml
 ```
@@ -38,7 +38,7 @@ cover:
 
 ### cover服務  `set_cover_position`
 
-### cover服務  `open_cover_tilt(窗戶上鎖)`    
+### cover服務  `open_cover_tilt(窗戶上鎖)`
 
 ### cover服務  `close_cover_tilt(窗戶解鎖)`
 

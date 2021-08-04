@@ -1,9 +1,0 @@
-{
-  "domain": "yunyi_windows",
-  "name": "Ynuyi Windows",
-  "version": "1.0",
-  "documentation": [],
-  "dependencies": [],
-  "codeowners": [],
-  "requirements": ["python-miio>=0.4.5"]
-}
